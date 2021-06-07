@@ -1,0 +1,69 @@
+body{
+    background-color: rgb(214, 214, 214);
+}
+
+.container{ 
+    margin: 160px 0 0 200px;
+}
+
+.row{ 
+    width: 100%;
+    height: 60px;
+}
+
+.one,.two,.three,.four,.five{  
+    margin: 10px 0 0 0;
+
+}
+button{ 
+    color: black;
+    width: 55px;
+    height: 55px;
+    border-radius: 10px;
+    background-color: white (0, 0, 0);
+    box-shadow: 5px 5px 10px #474343, -5px -5px 10 px #eeebeb;
+    font-size: 20px;
+    margin: left;
+    outline: none;
+    text-align:center;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 20%
+    
+}
+
+button:active{ 
+    box-shadow: 1px 1px 2px #fff8f8, -1px -1px 2px #474343;
+}
+.back{ 
+    width: 135px;
+    border-radius: 10px;
+}
+.tab{ 
+    width: 85px;
+    border-radius: 10px;
+}
+.ent-btn{ 
+    width: 135px;
+    border-radius: 10px;
+}
+.caps{ 
+    width: 100px;
+    border-radius: 10px;
+}
+.shift{  
+    width: 135px;
+    border-radius: 10px;
+}
+.other{  
+    width: 82px;
+    border-radius: 10px;
+}
+.space{  
+    width: 400px;
+    border-radius: 10px;
+}
+    
+    
+
+
+
